@@ -1,0 +1,22 @@
+**/.idea
+**.iml
+**/target
+**.settings
+**.classpath
+**.project
+
+# Mac
+.DS_Store
+  
+# Maven
+**/log/
+**/target/
+
+#Gradle
+**/build/
+**/gradle/
+**/.gradle/
+
+#common
+**/out
+**.class
